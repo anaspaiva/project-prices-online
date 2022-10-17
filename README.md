@@ -20,6 +20,7 @@ O objetivo era criar um menu(tabela de preços) para apresentação e gerar o QR
 ## Author
 
 GitHub - anaspaiva 
+
 QR Code:
 https://qrco.de/bdQBPd
 

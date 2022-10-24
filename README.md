@@ -25,4 +25,4 @@ QR Code:
 https://qrco.de/bdQBPd
 
 Projeto:
-https://projet-prices-online.vercel.app/
+https://project-prices-online.vercel.app/
